@@ -1,5 +1,3 @@
-# Write your code here.
-
 #create and return a message 
 def badge_maker(name)
   return "Hello, my name is #{name}."
